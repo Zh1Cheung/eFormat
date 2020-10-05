@@ -1,4 +1,4 @@
-package format
+package eFormat
 
 type Style struct {
 	Key, String, Number [2]string
