@@ -20,10 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5403002b-24bf-46ba-8136-65fca822ff64" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/eColorize.go" beforeDir="false" afterPath="$PROJECT_DIR$/eColorize.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eColorize_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/eColorize_test.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eFormat.go" beforeDir="false" afterPath="$PROJECT_DIR$/eFormat.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eFormat_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/eFormat_test.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
